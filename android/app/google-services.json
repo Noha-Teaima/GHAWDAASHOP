@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "389642588846",
+    "project_id": "ghawdashop",
+    "storage_bucket": "ghawdashop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:389642588846:android:5b77eae81e6cab8892d33f",
+        "android_client_info": {
+          "package_name": "com.example.testeco"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6YvIU5p_gbjvEMtTFy4P7coh4tWjT1DQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
